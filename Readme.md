@@ -4,7 +4,7 @@ This project is used for testing ring with Baidu's rust-sgx-sdk. Currently the r
 
 ## What's included
 
-* A [Dockerfile](dockerfile/Dockerfile)
+* A [Dockerfile](docker/Dockerfile)
 * Ported testcases under folder [enclave/src](enclave/src)
 * My ported [ring](ring)
 
